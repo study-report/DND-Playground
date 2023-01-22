@@ -1,4 +1,4 @@
-import TodoLibraryExample from '@/components/todo/TodoLibraryExample';
+import TodoLibraryExample from '@/components/TodoLibraryExample';
 import { useState } from 'react';
 
 export type TItemStatus = 'todo' | 'doing';

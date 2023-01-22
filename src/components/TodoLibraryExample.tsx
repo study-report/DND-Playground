@@ -1,4 +1,4 @@
-import { TItems, TItemStatus } from '@/pages/todo';
+import { TItems, TItemStatus } from '@/pages';
 import { $ } from '@/utils';
 import { useEffect, useState } from 'react';
 import { DragDropContext, Draggable, Droppable, DropResult } from 'react-beautiful-dnd';
